@@ -1,0 +1,15 @@
+.brands {
+
+   // .brands_rev
+
+   &_rev {
+      .brands__column{
+         order: 1;
+         &_b{
+            order: 2;
+         }
+      }
+   }
+
+  
+}
